@@ -4,7 +4,7 @@ This is the **absolute minimum** code needed to add Azure authentication to an A
 
 ## What This Example Shows
 
-- Minimal viable implementation (less than 100 lines)
+- Minimal viable implementation (MainActivity: ~70 lines, Total setup: ~150 lines)
 - Single Activity app with sign-in functionality
 - No complex UI, just essential functionality
 - Perfect starting point for understanding MSAL basics
