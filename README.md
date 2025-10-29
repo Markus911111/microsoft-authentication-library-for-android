@@ -4,6 +4,18 @@ Microsoft Authentication Library (MSAL) for Android
 |[📚Documentation](https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-android) | [ 🚀 Getting Started](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-mobile-app-android-sign-in) | [💻 Sample Code](https://github.com/AzureAD/microsoft-authentication-library-for-android/wiki/MSAL-Code-Samples)| [ 📖 Library Reference](http://javadoc.io/doc/com.microsoft.identity.client/msal) | [🛠️ Support](README.md#community-help-and-support) | [🌐 Docs Site](https://learn.microsoft.com/en-us/azure/active-directory/develop/scenario-mobile-overview)
 | --- | --- | --- | --- | --- | --- |
 
+## 🚀 New to Azure for Android?
+
+**Start here:**
+- **[Getting Started Guide](GETTING_STARTED.md)** - 15-minute quick start to add Azure authentication to your Android app
+- **[Quick Start Guide](QUICKSTART.md)** - Comprehensive step-by-step guide with detailed explanations
+- **[Azure Android Tutorial](AZURE_ANDROID_TUTORIAL.md)** - Complete tutorial covering common scenarios and best practices
+
+**Working examples:**
+- [Minimal Example](examples/minimal-example/) - Absolute minimum code (~150 lines) - perfect for learning
+- [Multiple Account Mode Example](examples/hello-msal-multiple-account/) - Default mode, supports switching between accounts
+- [Single Account Mode Example](examples/hello-msal-single-account/) - Simplified mode for single-user scenarios
+- [Examples Overview](examples/) - Compare all examples and choose the right one for your needs
 
 ## Introduction
 The Microsoft Authentication Library (MSAL) for Android enables developers to acquire security tokens from the Microsoft identity platform to authenticate users and access secured web APIs for their Android based applications.
