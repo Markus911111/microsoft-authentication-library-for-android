@@ -12,8 +12,10 @@ Microsoft Authentication Library (MSAL) for Android
 - **[Azure Android Tutorial](AZURE_ANDROID_TUTORIAL.md)** - Complete tutorial covering common scenarios and best practices
 
 **Working examples:**
+- [Minimal Example](examples/minimal-example/) - Absolute minimum code (~150 lines) - perfect for learning
 - [Multiple Account Mode Example](examples/hello-msal-multiple-account/) - Default mode, supports switching between accounts
 - [Single Account Mode Example](examples/hello-msal-single-account/) - Simplified mode for single-user scenarios
+- [Examples Overview](examples/) - Compare all examples and choose the right one for your needs
 
 ## Introduction
 The Microsoft Authentication Library (MSAL) for Android enables developers to acquire security tokens from the Microsoft identity platform to authenticate users and access secured web APIs for their Android based applications.
